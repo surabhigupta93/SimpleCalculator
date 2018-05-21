@@ -28,7 +28,7 @@ import NavigationBar from './NavigationBar'
       }
   }
 
- 
+ // simple calculator
 
 
 
